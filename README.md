@@ -65,7 +65,7 @@ This project is built on the [Jekyll][jekyllrb] ecosystem and some [great librar
 The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
 
 ## License
-
+..
 This project is published under [MIT License][license].
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
